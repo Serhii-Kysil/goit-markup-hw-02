@@ -73,7 +73,7 @@ body {
 .main-first-section {
   background-color: var(--text-color);
 }
-.head-title {
+.first-section-head {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -96,7 +96,7 @@ body {
 .main-page-button:focus {
   background-color: #404bbf;
 }
-.tips-title {
+.second-section-head {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -108,11 +108,14 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.second-section-title {
+.third-section-head {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--text-color);
+}
+.four-section {
+  background-color: #f4f4fd;
 }
