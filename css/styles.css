@@ -4,6 +4,7 @@
   --text-color: #2e2f42;
   --primary-font-color: #434455;
   --footer-text-color: #f4f4fd;
+  --paragraph-text-color: #434455;
 }
 body {
   font-family: 'Raleway', sans-serif;
@@ -107,6 +108,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--paragraph-text-color);
 }
 .third-section-head {
   font-size: 36px;
@@ -128,11 +130,12 @@ body {
   color: var(--text-color);
 }
 .fourth-section-list-head {
-}
-.fourth-section-list {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--text-color);
+}
+.fourth-section-list {
+  background-color: #ffffff;
 }
