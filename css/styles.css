@@ -73,7 +73,7 @@ body {
 .main-first-section {
   background-color: var(--text-color);
 }
-.head1-main {
+.head-title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -96,7 +96,7 @@ body {
 .main-page-button:focus {
   background-color: #404bbf;
 }
-.head3-text {
+.tips-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -108,7 +108,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.head2-text {
+.second-section-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
