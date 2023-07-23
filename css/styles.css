@@ -73,7 +73,7 @@ body {
 .main-first-section {
   background-color: var(--text-color);
 }
-.h1-main {
+.head1-main {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -96,7 +96,7 @@ body {
 .main-page-button:focus {
   background-color: #404bbf;
 }
-.h3-text {
+.head3-text {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -108,7 +108,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.h2-text {
+.head2-text {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
