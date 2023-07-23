@@ -119,3 +119,20 @@ body {
 .four-section {
   background-color: #f4f4fd;
 }
+.fourth-section-head {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--text-color);
+}
+.fourth-section-list-head {
+}
+.fourth-section-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--text-color);
+}
