@@ -97,3 +97,15 @@ body {
 .main-page-button:focus {
   background-color: #404bbf;
 }
+.h3-main-page {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--text-color);
+}
+.paragraph-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
