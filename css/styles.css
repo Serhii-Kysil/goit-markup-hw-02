@@ -73,7 +73,7 @@ body {
 .main-first-section {
   background-color: var(--text-color);
 }
-.h1main {
+.h-main {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -88,7 +88,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background-color: #404bbf;
   cursor: pointer;
 }
 .main-page-button:hover {
