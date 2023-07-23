@@ -5,6 +5,7 @@
   --primary-font-color: #434455;
   --footer-text-color: #f4f4fd;
   --paragraph-text-color: #434455;
+  --portfolio-buttons-color-text: #4d5ae5;
 }
 body {
   font-family: 'Raleway', sans-serif;
@@ -138,4 +139,22 @@ body {
 }
 .fourth-section-list {
   background-color: #ffffff;
+}
+.portfolio-buttons {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--portfolio-buttons-color-text);
+  background-color: var(--footer-text-color);
+  cursor: pointer;
+}
+.portfolio-buttons:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.portfolio-buttons:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
