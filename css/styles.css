@@ -165,3 +165,19 @@ body {
   letter-spacing: 0.02em;
   color: var(--text-color);
 }
+.top-line-block {
+  display: flex;
+  width: 1440px;
+  height: 72px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nav-block {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+img {
+  display: block;
+}
