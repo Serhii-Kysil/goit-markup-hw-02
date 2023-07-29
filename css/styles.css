@@ -165,13 +165,10 @@ body {
   letter-spacing: 0.02em;
   color: var(--text-color);
 }
-.top-line-block {
-  display: flex;
-  width: 1440px;
-  height: 72px;
-  justify-content: center;
-  align-items: center;
-  flex-shrink: 0;
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 .nav-block {
   display: inline-flex;
@@ -180,4 +177,14 @@ body {
 }
 img {
   display: block;
+}
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
+.top-block {
+  display: flex;
+}
+.navigation {
+  display: flex;
+  align-items: center;
 }
